@@ -1,5 +1,52 @@
 # Changelog
 
+## [1.0.7](https://github.com/AJLab-GH/cFOS-AKS/compare/v1.0.6...v1.0.7) (2024-06-25)
+
+
+### Bug Fixes
+
+* configure dvwa ([b6de9f6](https://github.com/AJLab-GH/cFOS-AKS/commit/b6de9f64ef5b4c5fd64e6cceec9714d06eb8ec40))
+* configure dvwa ([0a38787](https://github.com/AJLab-GH/cFOS-AKS/commit/0a38787701b7658411f0dfd04951aabc0013016e))
+* configure dvwa ([696d01d](https://github.com/AJLab-GH/cFOS-AKS/commit/696d01dcc35075c2aadf5d71ac1ac7c676e2877d))
+* configure dvwa ([18341ae](https://github.com/AJLab-GH/cFOS-AKS/commit/18341ae4a876331d13ab25bfc40c858418f778fb))
+* configure dvwa ([c7c7ac2](https://github.com/AJLab-GH/cFOS-AKS/commit/c7c7ac24b3341265b640b0cf4252651b69ea3b7a))
+* configure dvwa ([52d4959](https://github.com/AJLab-GH/cFOS-AKS/commit/52d4959cb7e9e745edaa81876c15323f5d355226))
+* configure dvwa ([6e8a699](https://github.com/AJLab-GH/cFOS-AKS/commit/6e8a699d72f25aa2a5d98f999229e2d197a589ef))
+* configure dvwa ([c2f42aa](https://github.com/AJLab-GH/cFOS-AKS/commit/c2f42aadf80ecdeb5b90d77f833ee3e27a144a36))
+* configure dvwa ([8305974](https://github.com/AJLab-GH/cFOS-AKS/commit/830597450eae43819e9b2a1db53830a56f6779df))
+* configure dvwa ([1b25376](https://github.com/AJLab-GH/cFOS-AKS/commit/1b253766cc7ef7a1b18203ceff5aeec9fc1157d8))
+* trying to make flux work ([e3bc4ca](https://github.com/AJLab-GH/cFOS-AKS/commit/e3bc4ca3eda76583d217d0664aca91b04473b381))
+* trying to make flux work ([6b19481](https://github.com/AJLab-GH/cFOS-AKS/commit/6b19481801071c2ab93ec6558ae34934f3cbbb75))
+* trying to make flux work ([72d3fb0](https://github.com/AJLab-GH/cFOS-AKS/commit/72d3fb0144d3d52fe773b516e05b7585deb7374c))
+* trying to make flux work ([e67a7de](https://github.com/AJLab-GH/cFOS-AKS/commit/e67a7de32a6d0f0f6c94694f968074d3f738bc83))
+* trying to make flux work ([aaa4664](https://github.com/AJLab-GH/cFOS-AKS/commit/aaa46640d0d590bdab8a5e38997524a39091e470))
+* trying to make flux work ([3dfc8f4](https://github.com/AJLab-GH/cFOS-AKS/commit/3dfc8f42c51f1996a8a2494181d9bcbcb290fdb8))
+* trying to make flux work ([d862c7a](https://github.com/AJLab-GH/cFOS-AKS/commit/d862c7a299315e08c03f7d3d327252bf3617f3ac))
+* trying to make flux work ([11f4cb4](https://github.com/AJLab-GH/cFOS-AKS/commit/11f4cb4e055e8a005819a7ee0959f84b0606ffd7))
+* trying to make flux work ([257c2ea](https://github.com/AJLab-GH/cFOS-AKS/commit/257c2ea7f575df8ab6818174fd23782d668db624))
+* trying to make flux work ([7cc00cf](https://github.com/AJLab-GH/cFOS-AKS/commit/7cc00cfaa7a1d0b32b9be77ae354de402fa2202b))
+* trying to make flux work ([0f658f7](https://github.com/AJLab-GH/cFOS-AKS/commit/0f658f7685b5f2dd14dc74721ea29451521f5446))
+* trying to make flux work ([63b4115](https://github.com/AJLab-GH/cFOS-AKS/commit/63b4115193c410dfad9bda348c2d0c3a09c815ab))
+* trying to make flux work ([b5d192a](https://github.com/AJLab-GH/cFOS-AKS/commit/b5d192a8c89e364af4f11b96ad06b5bb9f5f7af6))
+* trying to make flux work ([8ce142e](https://github.com/AJLab-GH/cFOS-AKS/commit/8ce142e2ac4b9ac4dd8ebec804cc52e446cbdf00))
+* trying to make flux work ([f769aa1](https://github.com/AJLab-GH/cFOS-AKS/commit/f769aa1190bf4b1b4d51d3699bbc63185ac64fd5))
+* trying to make flux work ([02bfe55](https://github.com/AJLab-GH/cFOS-AKS/commit/02bfe550f2ed66c1978c70adb350ebc144969bfa))
+* trying to make flux work ([d6fff04](https://github.com/AJLab-GH/cFOS-AKS/commit/d6fff040b54e28c7559f744deea2c6d2c22b081e))
+* trying to make flux work ([169d833](https://github.com/AJLab-GH/cFOS-AKS/commit/169d8331b021efaeb13e8a2a604756d94fe1db6f))
+* trying to make flux work ([008ba07](https://github.com/AJLab-GH/cFOS-AKS/commit/008ba07017857317b9806d405a6ab6bfff026bfb))
+* trying to make flux work ([f44abf2](https://github.com/AJLab-GH/cFOS-AKS/commit/f44abf2893ea0171aeff10953381fc12cb71732d))
+* trying to make flux work ([e139c15](https://github.com/AJLab-GH/cFOS-AKS/commit/e139c15bc85b60bf854b604a739de67d7453988d))
+* trying to make flux work ([63de222](https://github.com/AJLab-GH/cFOS-AKS/commit/63de2220f3a3d29cf7fa2a68f7bbe16e139dc78d))
+* trying to make flux work ([f718aff](https://github.com/AJLab-GH/cFOS-AKS/commit/f718affd6ae1a9a9e581ecfa76bd9df1bd1f6a20))
+* trying to make flux work ([e6a7d01](https://github.com/AJLab-GH/cFOS-AKS/commit/e6a7d0133fc4d9a7a061e869b55562258eeb4a39))
+* trying to make flux work ([8ceeee0](https://github.com/AJLab-GH/cFOS-AKS/commit/8ceeee0f452380a79fface25b8bdd341af7ec017))
+* trying to make flux work ([66d9bf8](https://github.com/AJLab-GH/cFOS-AKS/commit/66d9bf81f7bb5184fdd4d9ea3305f8a03af8fa17))
+* trying to make flux work ([62807f0](https://github.com/AJLab-GH/cFOS-AKS/commit/62807f03a07024cbdffab2dda4e2a9ff7df3784b))
+* trying to make flux work ([11b09ac](https://github.com/AJLab-GH/cFOS-AKS/commit/11b09acc0c42f59a5cc69262681f0a461bf6525f))
+* trying to make flux work ([200e117](https://github.com/AJLab-GH/cFOS-AKS/commit/200e117ca13a86c627b47da9d88c8d7132096e5b))
+* trying to make flux work ([71392dd](https://github.com/AJLab-GH/cFOS-AKS/commit/71392dd8c1214a352c362c7af767e769815b89b7))
+* trying to make flux work ([bfbbe3d](https://github.com/AJLab-GH/cFOS-AKS/commit/bfbbe3dab670b2e2b3648c1451c3b7938ccb6412))
+
 ## [1.0.6](https://github.com/AJLab-GH/cFOS-AKS/compare/v1.0.5...v1.0.6) (2024-06-22)
 
 
